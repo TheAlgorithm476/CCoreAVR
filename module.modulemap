@@ -1,0 +1,3 @@
+module CCoreAVR [system] {
+    header "CCoreAVR.h"
+}
